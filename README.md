@@ -4,9 +4,7 @@ Play [Stimulation Clicker](https://neal.fun/stimulation-clicker/) while waiting 
 
 ## Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID_HERE
-
-> To add the demo: Create a new issue in your repo, drag `cursor-but-fun.mov` into the comment box, and replace the URL above with the generated link.
+https://github.com/user-attachments/assets/52608b47-2904-4320-b367-e01390c45f96
 
 ## What it does
 

@@ -34,9 +34,6 @@ cp ./hooks/switch-to-terminal.sh ~/.cursor/hooks/switch-to-terminal.sh
 chmod +x ~/.cursor/hooks/switch-to-game.sh ~/.cursor/hooks/switch-to-terminal.sh
 ```
 
-
-Restart Cursor to ensure hooks are loaded.
-
 ## How it works
 
 This project uses [Cursor Hooks](https://cursor.com/docs/agent/hooks) - a native way to extend Cursor's agent behavior:

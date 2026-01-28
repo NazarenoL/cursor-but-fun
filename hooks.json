@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeSubmitPrompt": [
+      {
+        "command": "./hooks/switch-to-game.sh"
+      }
+    ],
+    "stop": [
+      {
+        "command": "./hooks/switch-to-terminal.sh"
+      }
+    ]
+  }
+}
